@@ -1,11 +1,8 @@
-# _33-Keyboard
+# _33-Keyboard P3D Mod
 
 ![_33](https://i.imgur.com/0Wuf8aT.png)
-This is the STL for the _33 keyboard designed by tominabox1 (discord @tominabox1#7884). The USB cutout may be too small on the normal model, it measures approximately 11x5.5mm.  The "big USB" version is approximately 13.3mmx8mm but impacts the chamfer design. 
+This is the STL for the _33 keyboard designed by tominabox1 (discord @tominabox1#7884) Modded to be more printable by P3D.
 
-Recommend printing with top parallel to bed. Be sure to use a support interface (roof), raft optional.
-![Cura Example](https://i.imgur.com/BG6KCj0.png)
+Recommend printing with top against the bed. Be sure to use a small amount of supports for the PCB mounts
 
-PCB and Plate will be open sourced after inital mini group buy (ca. April 2020).
-
-Visit the QMK page for firmware information
+3 x M2 8mm machine screws are used for the bottom cover. 
