@@ -1,4 +1,4 @@
-# _33-Keyboard P3D Mod
+# _33-Keyboard
 
 ![_33](https://i.imgur.com/0Wuf8aT.png)
 This is the STL for the _33 keyboard designed by tominabox1 (discord @tominabox1#7884) Modded to be more printable by P3D.
